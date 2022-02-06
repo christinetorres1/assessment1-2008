@@ -1,37 +1,16 @@
 {
-  "name": "jimhortson-starter-kit-web",
+  "name": "assessment-1",
   "version": "1.0.0",
-  "description": "simple starting framework for web projects",
-  "default": "src/index.html",
+  "description": "Assessment 1 - DMIT 2008",
+  "main": "index.js",
   "scripts": {
-    "test": "none",
-    "start":"npx parcel src/index.html",
-    "build":"npx parcel build src/index.html --dist-dir public"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-
-  "keywords": [
-    "starter",
-    "kit",
-    "front",
-    "end",
-    "starter",
-    "kit",
-    "vanilla",
-    "javascript",
-    "starter",
-    "kit",
-    "es",
-    "module",
-    "starter",
-    "kit"
-  ],
-  "author": "James Foley",
+  "author": "Christine Torres",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dominait/jimhortons-web-starterkit/issues"
-  },
-  "homepage": "https://github.com/dominait/jimhortons-web-starterkit#readme",
-  "devDependencies": {
-    "parcel": "^2.0.0-rc.0"
+  "dependencies": {
+    "firebase": "^9.6.6",
+    "node": "^17.4.0",
+    "parcel": "^2.2.1"
   }
 }

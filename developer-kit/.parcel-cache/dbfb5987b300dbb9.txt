@@ -1,0 +1,27 @@
+26
+129C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src\css132885850166539839 1
+153C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src\favicons\mstile-150x150.png132885850166580033 0
+131C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\Readme.md132885850166439747 0
+125C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src132885850166580033 1
+161C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src\favicons\android-chrome-256x256.png132885850166549863 0
+161C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src\favicons\android-chrome-192x192.png132885850166549863 0
+132C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src\assets132885850166489756 1
+134C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src\favicons132885850166580033 1
+152C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src\favicons\favicon-32x32.png132885850166569879 0
+143C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src\browserconfig.xml132885850166519870 0
+136C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src\index.html132885850166580033 0
+148C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src\css\styles.min.css.map132885850166539839 0
+155C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src\favicons\apple-touch-icon.png132885850166559856 0
+152C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src\favicons\favicon-16x16.png132885850166559856 0
+146C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src\favicons\favicon.ico132885850166569879 0
+156C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src\favicons\safari-pinned-tab.svg132885850166580033 0
+140C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src\css\styles.css132885850166529835 0
+144C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src\css\styles.css.map132885850166529835 0
+144C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src\css\styles.min.css132885850166539839 0
+136C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src\assets\svg132885850166509832 1
+156C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src\assets\svg\always-time-for.svg132885850166489756 0
+151C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src\assets\svg\background.svg132885850166489756 0
+144C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src\assets\svg\hat.svg132885850166499874 0
+145C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src\assets\svg\icon.svg132885850166499874 0
+152C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src\assets\svg\jim-hortons.svg132885850166509832 0
+148C:\Users\chris\OneDrive\Desktop\CompDev\WinterTerm2022\2008\Assessment1-ChristineJoyTorres\assessment1-2008\developer-kit\src\assets\svg\jimbits.svg132885850166509832 0
