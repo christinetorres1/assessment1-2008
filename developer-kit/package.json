@@ -1,0 +1,40 @@
+{
+  "name": "jimhortson-starter-kit-web",
+  "version": "1.0.0",
+  "description": "simple starting framework for web projects",
+  "default": "src/index.html",
+  "scripts": {
+    "test": "none",
+    "start":"npx parcel src/index.html",
+    "build":"npx parcel build src/index.html --dist-dir public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominait/jimhortons-web-starterkit.git"
+  },
+  "keywords": [
+    "starter",
+    "kit",
+    "front",
+    "end",
+    "starter",
+    "kit",
+    "vanilla",
+    "javascript",
+    "starter",
+    "kit",
+    "es",
+    "module",
+    "starter",
+    "kit"
+  ],
+  "author": "James Foley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dominait/jimhortons-web-starterkit/issues"
+  },
+  "homepage": "https://github.com/dominait/jimhortons-web-starterkit#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0-rc.0"
+  }
+}
